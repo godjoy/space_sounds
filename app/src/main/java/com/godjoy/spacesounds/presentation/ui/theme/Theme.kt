@@ -1,4 +1,4 @@
-package com.godjoy.spacesounds.ui.theme
+package com.godjoy.spacesounds.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
